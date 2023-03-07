@@ -5,7 +5,7 @@
 - cd : Change directory, allows us to go into a child folder of the current folder you're in
 - cd .. : Go go out and up to the parent folder of the one you're currently in
 
-## Github
+## Github x
 - fork: To copy a project from someone else's user and bring it into our own
 - clone: To "download" a project onto our computer to then be able to work on
 
